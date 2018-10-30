@@ -1,8 +1,8 @@
 # Kucoin REST-API Golang
-[![Build Status](https://travis-ci.org/fiore/kucoin-go.svg?branch=master)](https://travis-ci.org/fiore/kucoin-go)
-[![GoDoc](https://godoc.org/github.com/fiore/kucoin-go?status.svg)](https://godoc.org/github.com/fiore/kucoin-go)
-[![Go Report Card](https://goreportcard.com/badge/github.com/fiore/kucoin-go)](https://goreportcard.com/report/github.com/fiore/kucoin-go)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/fiore/kucoin-go/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/dgrr/kucoin-go.svg?branch=master)](https://travis-ci.org/dgrr/kucoin-go)
+[![GoDoc](https://godoc.org/github.com/dgrr/kucoin-go?status.svg)](https://godoc.org/github.com/dgrr/kucoin-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/dgrr/kucoin-go)](https://goreportcard.com/report/github.com/dgrr/kucoin-go)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/dgrr/kucoin-go/blob/master/LICENSE)
 
 Unofficial [Kucoin API](https://kucoinapidocs.docs.apiary.io/) implementation written on Golang.
 
@@ -15,13 +15,13 @@ Unofficial [Kucoin API](https://kucoinapidocs.docs.apiary.io/) implementation wr
 
 ## How to use
 ```bash
-go get -u github.com/fiore/kucoin-go
+go get -u github.com/dgrr/kucoin-go
 ```
 ```golang
 package main
 
 import (
-	"github.com/fiore/kucoin-go"
+	"github.com/dgrr/kucoin-go"
 )
 
 func main() {

@@ -4,7 +4,7 @@ go:
   - "1.11"
 
 before_install: go get -t ./...
-go_import_path: github.com/fiore/kucoin-go
+go_import_path: github.com/dgrr/kucoin-go
 
 sudo: false
 script: 

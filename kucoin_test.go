@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	kucoinGo "github.com/fiore/kucoin-go"
+	kucoinGo "github.com/dgrr/kucoin-go"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
